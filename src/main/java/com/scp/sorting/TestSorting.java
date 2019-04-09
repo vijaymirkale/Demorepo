@@ -8,8 +8,7 @@ public class TestSorting {
 		System.out.println("git change");
 		System.out.println("git push2");
 		System.out.println("git change2");
-		System.out.println("git push3");
-		System.out.println("git change3");
+		
 		
 			
 		}
